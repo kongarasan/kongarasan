@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **innovative front-end ideas**
+- 👯 I’m looking to collaborate on **innovative front-end ideas and web development**
 
 - 📫 How to reach me **kongarasan49@gmail.com**
 
