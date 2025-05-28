@@ -5,17 +5,27 @@
 
 
 
-- 🔭 I’m currently working on **mobile development using React Native**
+🔍 **Currently diving deep into Artificial Intelligence**  
+ Pursuing my Master's in AI at the University of Passau, Germany — exploring everything from machine learning and neural networks to computer vision and NLP.
 
-- 🌱 I'm currently pursuing a **Master's in Artificial Intelligence** at the **University of Passau, Germany**.
+🛠️ **What I’m working on**  
+- Building intelligent apps that think *and* look good  
+- Experimenting with LLMs, chatbots, and AI-powered interfaces  
+- Integrating ML models into real-time applications (React + Python + 🤖 = ❤️)
 
-- 👯 I’m looking to collaborate on **innovative front-end ideas and web development**
+🌱 **Still growing, always learning**  
+- Sharpening skills in PyTorch, TensorFlow, Scikit-learn  
+- Learning how to make models efficient, explainable, and impactful  
+- Exploring edge AI, ethical AI, and low-resource language models
+
+👯 **Let’s collaborate!**  
+Looking to team up on AI-driven tools, web+AI integrations, or meaningful open-source projects that help humans *actually* benefit from smart tech.
 
 - 📫 How to reach me **kongarasan49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kongarasan-s-16b39b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kongarasan-s-16b39b220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kongarasan-sathiya-moorthy-16b39b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kongarasan-s-16b39b220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
