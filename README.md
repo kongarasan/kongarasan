@@ -6,7 +6,7 @@
 
 
 🔍 **Currently diving deep into Artificial Intelligence**  
- Pursuing my Master's in AI at the University of Passau, Germany — exploring everything from machine learning and neural networks to computer vision and NLP.
+ - Pursuing my Master's in AI at the University of Passau, Germany — exploring everything from machine learning and neural networks to computer vision and NLP.
 
 🛠️ **What I’m working on**  
 - Building intelligent apps that think *and* look good  
@@ -19,9 +19,9 @@
 - Exploring edge AI, ethical AI, and low-resource language models
 
 👯 **Let’s collaborate!**  
-Looking to team up on AI-driven tools, web+AI integrations, or meaningful open-source projects that help humans *actually* benefit from smart tech.
+- Looking to team up on AI-driven tools, web+AI integrations, or meaningful open-source projects that help humans *actually* benefit from smart tech.
 
-- 📫 How to reach me **kongarasan49@gmail.com**
+📫 How to reach me **kongarasan49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
