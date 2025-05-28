@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **mobile development using React Native**
 
-- 🌱 I'm currently pursuing a Master's in Artificial Intelligence at the University of Passau, Germany.
+- 🌱 I'm currently pursuing a **Master's in Artificial Intelligence** at the **University of Passau, Germany**.
 
 - 👯 I’m looking to collaborate on **innovative front-end ideas and web development**
 
