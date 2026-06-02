@@ -36,12 +36,3 @@ I work where machine learning meets product — training and integrating models 
 **Web & Mobile** · React, React Native, HTML, CSS  
 **Databases** · SQL Server, Oracle  
 **Tools** · Git, Postman, Figma
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kongarasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongarasan&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
