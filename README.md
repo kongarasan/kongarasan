@@ -1,48 +1,47 @@
-# Hi, I'm Kongarasan 👋
-
-**AI Master's student at the University of Passau, Germany** — building intelligent systems with clean, usable interfaces.
-
-I work at the intersection of machine learning and product: training and integrating models (CV, NLP, LLMs) and shipping them into real apps with `Python` + `React`.
-
-- 🔭 **Currently:** Master's in Artificial Intelligence — ML, neural networks, computer vision, NLP
-- 🛠️ **Working on:** LLM-powered apps, chatbots, and AI-driven interfaces
-- 🌱 **Learning:** model efficiency, explainable AI, and low-resource language models
-- 🤝 **Open to:** AI tooling, web + AI integrations, and meaningful open-source collaboration
-- 📫 **Reach me:** [kongarasan49@gmail.com](mailto:kongarasan49@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kongarasan-sathiya-moorthy-16b39b220/)
-
----
-
-## 🧰 Skills
-
-| Area | Tools |
-|------|-------|
-| **AI / ML** | PyTorch · TensorFlow · Scikit-learn |
-| **Languages** | Python · C · C++ · JavaScript |
-| **Web & Mobile** | React · React Native · HTML · CSS |
-| **Databases** | SQL Server · Oracle |
-| **Tools** | Git · Postman · Figma |
-
----
-
-## 🚀 Featured Projects
-
-> _Replace these with your real repos — pin 4–6 of your best on your profile too._
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Project One](#)** | One line on what it does and the problem it solves. | Python, PyTorch |
-| **[Project Two](#)** | One line on what it does and the problem it solves. | React, Python |
-| **[Project Three](#)** | One line on what it does and the problem it solves. | NLP, LLMs |
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Kongarasan Sathiya Moorthy</h1>
+<p align="center">
+  AI Master's student @ University of Passau 🇩🇪 — building intelligent systems with clean, usable interfaces.
+</p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kongarasan&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongarasan&layout=compact&theme=default" alt="top languages" />
+  <a href="https://www.linkedin.com/in/kongarasan-sathiya-moorthy-16b39b220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kongarasan49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><em>Thanks for visiting — feel free to reach out if you'd like to build something together.</em></p>
+### About
+
+I work where machine learning meets product — training and integrating models (computer vision, NLP, LLMs) and shipping them into real applications with Python and React.
+
+- 🔭 Currently focused on **machine learning, neural networks, computer vision, and NLP**
+- 🛠️ Building **LLM-powered apps, chatbots, and AI-driven interfaces**
+- 🌱 Exploring **model efficiency, explainable AI, and low-resource language models**
+- 🤝 Open to **AI tooling, web + AI integrations, and open-source collaboration**
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,reactnative,js,c,cpp,git,postman,figma" alt="tech stack" />
+</p>
+
+**AI/ML** · PyTorch, TensorFlow, Scikit-learn  
+**Languages** · Python, C, C++, JavaScript  
+**Web & Mobile** · React, React Native, HTML, CSS  
+**Databases** · SQL Server, Oracle  
+**Tools** · Git, Postman, Figma
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kongarasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongarasan&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
