@@ -1,38 +1,87 @@
-<h1 align="center">Hi 👋, I'm Kongarasan</h1>
-<h3 align="center">A curious mind from India, bridging the gap between intelligent systems and elegant interfaces.</h3>
+<!-- ====== HEADER ====== -->
+<a href="https://github.com/kongarasan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Kongarasan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Master's%20Student%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=62" alt="header"/>
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kongarasan&label=Profile%20views&color=0e75b6&style=flat" alt="kongarasan" /> </p>
-
-
-
-🔍 **Currently diving deep into Artificial Intelligence**  
- - Pursuing my Master's in AI at the University of Passau, Germany — exploring everything from machine learning and neural networks to computer vision and NLP.
-
-🛠️ **What I’m working on**  
-- Building intelligent apps that think *and* look good  
-- Experimenting with LLMs, chatbots, and AI-powered interfaces  
-- Integrating ML models into real-time applications (React + Python + 🤖 = ❤️)
-
-🌱 **Still growing, always learning**  
-- Sharpening skills in PyTorch, TensorFlow, Scikit-learn  
-- Learning how to make models efficient, explainable, and impactful  
-- Exploring edge AI, ethical AI, and low-resource language models
-
-👯 **Let’s collaborate!**  
-- Looking to team up on AI-driven tools, web+AI integrations, or meaningful open-source projects that help humans *actually* benefit from smart tech.
-
-📫 How to reach me **kongarasan49@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kongarasan-sathiya-moorthy-16b39b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kongarasan-s-16b39b220" height="30" width="40" /></a>
+<p align="center">
+  <em>A curious mind from India 🇮🇳, bridging the gap between intelligent systems and elegant interfaces.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kongarasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/kongarasan-sathiya-moorthy-16b39b220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:kongarasan49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongarasan&show_icons=true&locale=en&layout=compact" alt="kongarasan" /></p>
+---
 
+### 🔭 About Me
 
+```python
+class Kongarasan:
+    def __init__(self):
+        self.role        = "AI Master's Student @ University of Passau, Germany 🇩🇪"
+        self.focus       = ["Machine Learning", "Computer Vision", "NLP", "LLMs"]
+        self.stack       = ["Python", "PyTorch", "TensorFlow", "React", "React Native"]
+        self.mission     = "Build intelligent apps that think AND look good"
+        self.learning    = ["Edge AI", "Explainable AI", "Low-resource language models"]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kongarasan&" alt="kongarasan" /></p>
+    def collaborate(self):
+        return "AI-driven tools • Web + AI integrations • meaningful open source"
+```
+
+- 🎓 Pursuing my **Master's in AI** — from machine learning and neural networks to computer vision and NLP.
+- 🛠️ Building intelligent apps, experimenting with **LLMs, chatbots, and AI-powered interfaces**, and shipping ML models into real-time apps (`React + Python + 🤖 = ❤️`).
+- 🌱 Sharpening **PyTorch, TensorFlow, Scikit-learn** while exploring efficient, explainable, and ethical AI.
+- 👯 Open to collaborating on AI tools, web+AI integrations, and impactful open-source work.
+- 📫 Reach me at **kongarasan49@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="ai" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,html,css,figma&theme=dark" alt="frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,postman&theme=dark" alt="core" /><br/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kongarasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongarasan&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kongarasan&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kongarasan&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kongarasan-sathiya-moorthy-16b39b220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kongarasan49@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><em>⭐️ From <a href="https://github.com/kongarasan">kongarasan</a> — thanks for stopping by!</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=100&section=footer" alt="footer"/>
